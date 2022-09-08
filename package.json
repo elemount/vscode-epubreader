@@ -78,6 +78,6 @@
 	},
 	"dependencies": {
 		"epubjs": "^0.3.85",
-		"jszip": "^3.2.2"
+		"jszip": "^3.7.0"
 	}
 }

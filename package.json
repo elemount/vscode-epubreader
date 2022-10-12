@@ -77,7 +77,7 @@
 		"vscode-test": "^1.2.0"
 	},
 	"dependencies": {
-		"epubjs": "^0.3.85",
+		"epubjs": "^0.3.93",
 		"jszip": "^3.2.2"
 	}
 }
